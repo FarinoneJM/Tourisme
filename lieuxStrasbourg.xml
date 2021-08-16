@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carto>
+<markers>
+<marker name="Cathedrale de Strasbourg" number="1"/>
+<marker name="Palais Rohan" number="2"/>
+<marker name="Musee d'art moderne et contemporain" number="3"/>
+<marker name="Musee alsacien" number="4"/>
+<marker name="Maison Kammerzell" number="5"/>
+<marker name="Eglise protestante Saint-Pierre-le-Jeune de Strasbourg" number="6"/>
+<marker name="Musee de l'oeuvre Notre-Dame" number="7"/>
+<marker name="Grande ile de Strasbourg" number="8"/>
+<marker name="Barrage Vauban" number="9"/>
+<marker name="Horloge astronomique de Strasbourg" number="10"/>
+<marker name="Stade de la Meinau" number="11"/>
+<marker name="Bibliotheque nationale et universitaire" number="12"/>
+<marker name="Canal du Rhone au Rhin" number="13"/>
+<marker name="Palais de l'Europe" number="14"/>
+<marker name="Musee beaux-arts de Strasbourg" number="15"/>
+</markers>
+</carto>
