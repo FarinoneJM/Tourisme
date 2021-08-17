@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <carto>
-<markers>
-<marker name="Cathedrale de Strasbourg" number="1"/>
-<marker name="Palais Rohan" number="2"/>
-<marker name="Musee d'art moderne et contemporain" number="3"/>
-<marker name="Musee alsacien" number="4"/>
-<marker name="Maison Kammerzell" number="5"/>
-<marker name="Eglise protestante Saint-Pierre-le-Jeune de Strasbourg" number="6"/>
-<marker name="Musee de l'oeuvre Notre-Dame" number="7"/>
-<marker name="Grande ile de Strasbourg" number="8"/>
-<marker name="Barrage Vauban" number="9"/>
-<marker name="Horloge astronomique de Strasbourg" number="10"/>
-<marker name="Stade de la Meinau" number="11"/>
-<marker name="Bibliotheque nationale et universitaire" number="12"/>
-<marker name="Canal du Rhone au Rhin" number="13"/>
-<marker name="Palais de l'Europe" number="14"/>
-<marker name="Musee beaux-arts de Strasbourg" number="15"/>
-</markers>
+<lieux>
+<lieu name="Cathedrale de Strasbourg" number="1" lat="48.581574" lng="7.751233"/>
+<lieu name="Palais Rohan" number="2" lat="48.580832" lng="7.752529"/>
+<lieu name="Musee d'art moderne et contemporain" number="3" lat="48.579625" lng="7.735935"/>
+<lieu name="Musee alsacien" number="4" lat="48.579200" lng="7.750677"/>
+<lieu name="Maison Kammerzell" number="5" lat="48.581956" lng="7.749799"/>
+<lieu name="Eglise protestante Saint-Pierre-le-Jeune de Strasbourg" number="6" lat="48.585441" lng="7.746532"/>
+<lieu name="Musee de l'oeuvre Notre-Dame" number="7" lat="48.580990" lng="7.751481"/>
+<lieu name="Grande ile de Strasbourg" number="8" lat="48.584984" lng="7.745965"/>
+<lieu name="Barrage Vauban" number="9" lat="48.579551" lng="7.737945"/>
+<lieu name="Horloge astronomique de Strasbourg" number="10" lat="48.581958" lng="7.751604"/>
+<lieu name="Stade de la Meinau" number="11" lat="48.559580" lng="7.753605"/>
+<lieu name="Bibliotheque nationale et universitaire" number="12" lat="48.587234" lat="7.755415"/>
+<lieu name="Palais de l'Europe" number="13" lat="48.594999" lng="7.771898"/>
+<lieu name="Musee beaux-arts de Strasbourg" number="14" lat="48.581074" lng="7.752815"/>
+</lieux>
 </carto>

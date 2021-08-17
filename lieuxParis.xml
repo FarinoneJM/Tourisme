@@ -1,0 +1,10 @@
+<carto>
+<lieux>
+<lieu name="Arc de triomphe" number="901" lat="48.873792" lng="2.295028"/>
+<lieu name="Tour Eiffel" number="902" lat="48.858370" lng="2.294481"/>
+<lieu name="Notre Dame de Paris" number="903" lat="48.853099" lng="2.350063"/>
+<lieu name="Musée du Louvre" number="904" lat="48.860611" lng="2.337644"/>
+<lieu name="Jardins des tuileries" number="905" lat="48.863492" lng="2.327494"/>
+<lieu name="Butte Montmartre" number="906" lat="48.886193" lng="2.34309"/>
+</lieux>
+</carto>
