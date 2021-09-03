@@ -12,7 +12,7 @@
 <lieu name="Barrage Vauban" number="9" lat="48.579551" lng="7.737945"/>
 <lieu name="Horloge astronomique de Strasbourg" number="10" lat="48.581958" lng="7.751604"/>
 <lieu name="Stade de la Meinau" number="11" lat="48.559580" lng="7.753605"/>
-<lieu name="Bibliotheque nationale et universitaire" number="12" lat="48.587234" lat="7.755415"/>
+<lieu name="Bibliotheque nationale et universitaire" number="12" lat="48.587234" lng="7.755415"/>
 <lieu name="Palais de l'Europe" number="13" lat="48.594999" lng="7.771898"/>
 <lieu name="Musee beaux-arts de Strasbourg" number="14" lat="48.581074" lng="7.752815"/>
 </lieux>
